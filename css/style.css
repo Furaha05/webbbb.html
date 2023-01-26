@@ -1,0 +1,18 @@
+ table{
+   width: 100%;
+   border-collapse: collapse;
+ }
+ button{
+   padding:15px;
+ }
+ td, th{
+   border: 2px dashed navy;
+   font-family: "Courier 10 Pitch", serif font-size;
+   text-align: center;
+   padding: 5px;
+   color:#000000;
+ }
+ tr:nth-child(EVEN){
+   background: mediumorchid;
+   color: cadetblue;
+ }

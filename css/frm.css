@@ -1,0 +1,27 @@
+label{
+  font-family: Timmana;
+  font-size: 20px;
+  color: navy;
+}
+input{
+  font-size: 18px;
+  font-family: "Courier 10 Pitch", serif;
+}
+form{
+  border: 5px solid forestgreen;
+  padding: 15px;
+}
+h2{
+  font-weight: bold;
+  font-size: 23px;
+  font-family: "DejaVu Serif";
+  text-align: center;
+  color: #3d72b4;
+}
+footer{
+  text-align: center;
+  color: black;
+}
+p{
+  color: black;
+}

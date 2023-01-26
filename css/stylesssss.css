@@ -1,0 +1,19 @@
+body{
+  background-image: url("irene-bersani-_puTZJAx-YA-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+p{
+  color: violet;
+  font-family:"Courier 10 Pitch", serif
+  font-size: 14px;
+  text-align: justify;
+}
+button{
+  padding: 10px;
+  color: burlywood;
+}
+
+
