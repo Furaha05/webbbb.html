@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6558e772-e76d-472a-a30a-eb993910aa33" name="Changes" comment="" />
+    <list default="true" id="6558e772-e76d-472a-a30a-eb993910aa33" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/weeeebbb.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/weeeebbb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token-owen" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,6 +97,7 @@
       <workItem from="1674552661087" duration="3930000" />
       <workItem from="1674635712226" duration="3542000" />
       <workItem from="1674645346677" duration="89000" />
+      <workItem from="1674808892409" duration="551000" />
     </task>
     <servers />
   </component>
